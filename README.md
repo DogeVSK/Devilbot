@@ -10,7 +10,7 @@ Comando de d.ddd(Consultar ddd)
 
 comandos de d.creator(Minhas Infos)
 
-Adcionad Comand de d.DuckDuckgo Fzr pesquisas no duckduckgo
+Adcionado comando de d.DuckDuckgo Fzr pesquisas no duckduckgo
 
 Nova foto de perfil no bot
 
