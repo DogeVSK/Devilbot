@@ -97,6 +97,11 @@ d.nick(Sugestao de Nick)
 
 d.traduzir(traduzir
 
+Consultas
+
+d.ip(Consultar ip)
+
+d.ddd(consultar ddd)
 
 Links
 
@@ -112,7 +117,4 @@ Mais recente:Sim
 
 Consultas
 
-d.ip(pesquisar ip)
-
-d.ddd(pesquisar ddd)
 
